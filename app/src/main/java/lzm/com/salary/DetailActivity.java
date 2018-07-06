@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-
+//lzm is author
 public class DetailActivity extends AppCompatActivity {
 
     private Button btn1;
