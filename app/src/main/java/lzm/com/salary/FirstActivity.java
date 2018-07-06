@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
-
+//李文峰是作者
 public class FirstActivity extends AppCompatActivity {
 
     private  static final String TAG ="----FirstActivity---";
