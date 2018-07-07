@@ -9,6 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+//这个文件是commit在backupBranch
 public class DetailActivity extends AppCompatActivity {
 
     private Button btn1;
