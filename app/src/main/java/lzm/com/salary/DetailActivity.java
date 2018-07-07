@@ -9,6 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 //这个是在主branch中进行变化
+//我有改变了master的内容了
 public class DetailActivity extends AppCompatActivity {
 
     private Button btn1;
